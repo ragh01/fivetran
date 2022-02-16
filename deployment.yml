@@ -1,0 +1,4 @@
+# Choose the version of dbt that will run the project.
+# Supported versions are listed in https://fivetran.com/docs/transformations/dbt/setup-guide#prerequisites.
+# If the version is not specified, dbt 0.18.0 will be used.
+dbtVersion: 1.0.1
